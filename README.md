@@ -38,7 +38,7 @@ product-listing-app/
 
 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/product-listing-app.git
+git clone https://github.com/Swagatika1982/freeapi-Product-Listing.git
 cd product-listing-app
 2. Install dependencies
 npm install
