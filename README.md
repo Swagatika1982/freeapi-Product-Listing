@@ -46,6 +46,8 @@ npm install
 npm run dev
 
 How It Works
+
+
 The app makes a fetch request to the Products API
 Data is received and stored in state
 Products are mapped and displayed as cards
